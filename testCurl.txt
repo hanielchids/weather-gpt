@@ -1,0 +1,1 @@
+https://api.open-meteo.com/v1/forecast?latitude=-26.2023&longitude=28.0436&hourly=temperature_2m,relativehumidity_2m,dewpoint_2m,apparent_temperature,precipitation_probability,uv_index,uv_index_clear_sky&daily=weathercode,temperature_2m_max&current_weather=true&timezone=Africa%2FCairo
