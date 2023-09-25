@@ -10,7 +10,7 @@ export default function Home() {
           GPT Weather AI
         </Text>
         <Subtitle className="text-sm text-center">
-          Next.js, Tailwind, Tremor and Open AI
+          Next.js, Tailwind, Tremor, Stepzen and Open AI
         </Subtitle>
 
         <Divider className="my-10" />
